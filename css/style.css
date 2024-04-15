@@ -1,0 +1,118 @@
+body{
+    background-image: url(../images/fondo5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;    
+    text-align: justify;
+}
+.imagen{
+    border-color: black;
+    border-radius: 60%;
+    border-style: none;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+.parrafos{
+    font-family:sans-serif;
+    border-style: none;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.441);
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.logos{
+    text-align: center;
+}
+.logo{
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    border-style: none;
+    text-align: center;
+}
+h5{
+    color: aliceblue;
+}
+h4{
+    color: aliceblue;
+    margin-left: 20px;
+}
+.navbar-nav .nav-link{
+    color: white;
+}
+.navbar-nav .nav-link:hover{
+    color: rgb(198, 133, 12);
+}
+
+.cuadro1{
+    padding-left: 60px;
+    font-family:sans-serif;
+    border-style: none;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.441);
+ 
+}
+
+.carousel-control-prev{
+    margin-left: -70px;
+}
+.carousel-control-next{
+    margin-right: -70px;
+    
+}
+
+.parrafoproyectos{
+    background-color: rgba(255, 255, 255, 0.509);
+    border-style: none;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.acordion{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.imagen1-acordion{
+    text-align: center;
+
+}
+.dueños{
+    text-align: center;
+}
+.dueño{
+    border-style: none;
+    border-radius: 10px;
+}
+.nombre{
+    text-align: center;
+}
+.formularios{
+    font-family:sans-serif;
+    border-style: none;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.441);
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+}
+.boton{
+    text-align: center;
+}
+.ubicacion{
+    text-align: center;
+}
+.waze{
+    text-align: center;
+}
+.wazer{
+    border-radius: 50%;
+    width: 200px;
+    height: auto;
+}
